@@ -1,0 +1,17 @@
+C:\Users\innara\Source\Repos\nrawat207\WindowsService-Topshelf-Nservicebus\src\ClientUI\bin\Debug\ClientUI.exe.config
+C:\Users\innara\Source\Repos\nrawat207\WindowsService-Topshelf-Nservicebus\src\ClientUI\bin\Debug\ClientUI.exe
+C:\Users\innara\Source\Repos\nrawat207\WindowsService-Topshelf-Nservicebus\src\ClientUI\bin\Debug\ClientUI.pdb
+C:\Users\innara\Source\Repos\nrawat207\WindowsService-Topshelf-Nservicebus\src\ClientUI\bin\Debug\log4net.dll
+C:\Users\innara\Source\Repos\nrawat207\WindowsService-Topshelf-Nservicebus\src\ClientUI\bin\Debug\NServiceBus.Core.dll
+C:\Users\innara\Source\Repos\nrawat207\WindowsService-Topshelf-Nservicebus\src\ClientUI\bin\Debug\NServiceBus.dll
+C:\Users\innara\Source\Repos\nrawat207\WindowsService-Topshelf-Nservicebus\src\ClientUI\bin\Debug\log4net.xml
+C:\Users\innara\Source\Repos\nrawat207\WindowsService-Topshelf-Nservicebus\src\ClientUI\bin\Debug\NServiceBus.xml
+C:\Users\innara\Source\Repos\nrawat207\WindowsService-Topshelf-Nservicebus\src\ClientUI\bin\Debug\NServiceBus.Core.xml
+C:\Users\innara\Source\Repos\nrawat207\WindowsService-Topshelf-Nservicebus\src\ClientUI\obj\Debug\ClientUI.csprojAssemblyReference.cache
+C:\Users\innara\Source\Repos\nrawat207\WindowsService-Topshelf-Nservicebus\src\ClientUI\obj\Debug\ClientUI.csproj.CoreCompileInputs.cache
+C:\Users\innara\Source\Repos\nrawat207\WindowsService-Topshelf-Nservicebus\src\ClientUI\obj\Debug\ClientUI.csproj.CopyComplete
+C:\Users\innara\Source\Repos\nrawat207\WindowsService-Topshelf-Nservicebus\src\ClientUI\obj\Debug\ClientUI.exe
+C:\Users\innara\Source\Repos\nrawat207\WindowsService-Topshelf-Nservicebus\src\ClientUI\obj\Debug\ClientUI.pdb
+C:\Users\innara\Source\Repos\nrawat207\WindowsService-Topshelf-Nservicebus\src\ClientUI\bin\Debug\Commands.dll
+C:\Users\innara\Source\Repos\nrawat207\WindowsService-Topshelf-Nservicebus\src\ClientUI\bin\Debug\Commands.pdb
+C:\Users\innara\Source\Repos\nrawat207\WindowsService-Topshelf-Nservicebus\src\ClientUI\bin\Debug\log4net.config

@@ -1,0 +1,5 @@
+C:\Users\innara\Source\Repos\nrawat207\WindowsService-Topshelf-Nservicebus\src\Events\bin\Debug\Events.dll
+C:\Users\innara\Source\Repos\nrawat207\WindowsService-Topshelf-Nservicebus\src\Events\bin\Debug\Events.pdb
+C:\Users\innara\Source\Repos\nrawat207\WindowsService-Topshelf-Nservicebus\src\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\innara\Source\Repos\nrawat207\WindowsService-Topshelf-Nservicebus\src\Events\obj\Debug\Events.dll
+C:\Users\innara\Source\Repos\nrawat207\WindowsService-Topshelf-Nservicebus\src\Events\obj\Debug\Events.pdb

@@ -1,0 +1,31 @@
+2020-11-25 13:03:53,765 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2020-11-25 13:03:53,831 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\Users\innara\Source\Repos\nrawat207\WindowsService-Topshelf-Nservicebus\src\SalesService\bin\Debug\License\License.xml
+2020-11-25 13:03:53,834 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2020-11-25 13:03:53,889 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2020-11-25 13:03:53,893 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2020-11-25 13:03:54,015 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2020-11-25 13:03:54,017 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2020-11-25 13:04:08,785 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue mum-lnarendrar\private$\sales.service.error does not exist.
+2020-11-25 13:04:08,922 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue mum-lnarendrar\private$\salesservice does not exist.
+2020-11-25 13:04:09,034 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue mum-lnarendrar\private$\salesservice.subscriptions does not exist.
+2020-11-25 13:42:52,082 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2020-11-25 13:42:52,144 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\Users\innara\Source\Repos\nrawat207\WindowsService-Topshelf-Nservicebus\src\SalesService\bin\Debug\License\License.xml
+2020-11-25 13:42:52,148 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2020-11-25 13:42:52,189 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2020-11-25 13:42:52,194 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2020-11-25 13:42:52,299 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2020-11-25 13:42:52,302 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2020-11-25 13:44:34,754 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2020-11-25 13:44:34,832 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\Users\innara\Source\Repos\nrawat207\WindowsService-Topshelf-Nservicebus\src\SalesService\bin\Debug\License\License.xml
+2020-11-25 13:44:34,836 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2020-11-25 13:44:34,887 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2020-11-25 13:44:34,893 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2020-11-25 13:44:35,019 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2020-11-25 13:44:35,024 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2020-11-25 13:48:54,515 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2020-11-25 13:48:54,610 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\Users\innara\Source\Repos\nrawat207\WindowsService-Topshelf-Nservicebus\src\SalesService\bin\Debug\License\License.xml
+2020-11-25 13:48:54,614 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2020-11-25 13:48:54,668 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2020-11-25 13:48:54,679 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2020-11-25 13:48:54,806 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2020-11-25 13:48:54,812 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c

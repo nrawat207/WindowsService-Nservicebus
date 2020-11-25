@@ -1,0 +1,28 @@
+2020-11-25 13:51:22,588 [1] WARN  NServiceBus.Licensing - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2020-11-25 14:00:02,191 [1] WARN  NServiceBus.Licensing - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2020-11-25 14:00:17,122 [1] WARN  NServiceBus.Utils.MsmqUtilities - Queue mum-lnarendrar\private$\salesservice.error does not exist.
+2020-11-25 14:00:29,905 [Worker.13] DEBUG SalesService.Handlers.CreateOrderHandler - Create Order recevied.OrderId: 00000000-0000-0000-0000-000000000000
+2020-11-25 14:00:29,910 [Worker.13] DEBUG SalesService.Handlers.CreateOrderHandler - Order Created successfully
+2020-11-25 14:03:07,019 [1] WARN  NServiceBus.Licensing - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2020-11-25 14:03:25,013 [Worker.12] WARN  NServiceBus.Unicast.UnicastBus - Received an empty message - ignoring.
+2020-11-25 14:03:27,512 [Worker.12] WARN  NServiceBus.Unicast.UnicastBus - Received an empty message - ignoring.
+2020-11-25 14:04:41,053 [Worker.12] WARN  NServiceBus.Unicast.UnicastBus - Received an empty message - ignoring.
+2020-11-25 14:05:08,912 [Worker.12] WARN  NServiceBus.Unicast.UnicastBus - Received an empty message - ignoring.
+2020-11-25 14:08:51,143 [1] WARN  NServiceBus.Licensing - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2020-11-25 14:09:14,427 [Worker.12] DEBUG SalesService.Handlers.CreateOrderHandler - Create Order recevied.OrderId: 00000000-0000-0000-0000-000000000000
+2020-11-25 14:09:15,896 [Worker.12] DEBUG SalesService.Handlers.CreateOrderHandler - Order Created successfully
+2020-11-25 14:15:16,364 [1] WARN  NServiceBus.Licensing - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2020-11-25 14:15:45,979 [Worker.12] DEBUG SalesService.Handlers.CreateOrderHandler - Create Order recevied.OrderId: 00000000-0000-0000-0000-000000000000
+2020-11-25 14:15:45,985 [Worker.12] DEBUG SalesService.Handlers.CreateOrderHandler - Order Created successfully
+2020-11-25 14:20:50,930 [1] WARN  NServiceBus.Licensing - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2020-11-25 14:21:55,222 [1] WARN  NServiceBus.Licensing - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2020-11-25 14:22:14,909 [Worker.12] DEBUG SalesService.Handlers.CreateOrderHandler - Create Order recevied.OrderId: 08512229-e39f-4137-b0d5-280861764ff8
+2020-11-25 14:22:14,915 [Worker.12] DEBUG SalesService.Handlers.CreateOrderHandler - Order Created successfully
+2020-11-25 14:22:31,482 [Worker.12] DEBUG SalesService.Handlers.CreateOrderHandler - Create Order recevied.OrderId: f7991f22-3aec-41d8-a03e-02ee106602a8
+2020-11-25 14:22:31,504 [Worker.12] DEBUG SalesService.Handlers.CreateOrderHandler - Order Created successfully
+2020-11-25 14:24:47,798 [1] WARN  NServiceBus.Licensing - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2020-11-25 14:25:13,792 [Worker.14] DEBUG SalesService.Handlers.CreateOrderHandler - Create Order recevied.OrderId: 2fc91de3-73e0-4921-ae27-3b085f7bf964
+2020-11-25 14:25:13,797 [Worker.14] DEBUG SalesService.Handlers.CreateOrderHandler - Order Created successfully
+2020-11-25 14:27:14,231 [1] WARN  NServiceBus.Licensing - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2020-11-25 14:27:33,697 [Worker.13] DEBUG SalesService.Handlers.CreateOrderHandler - Create Order recevied.OrderId: 2deec8ba-1a32-4565-b7c3-10477c43d45f
+2020-11-25 14:27:33,701 [Worker.13] DEBUG SalesService.Handlers.CreateOrderHandler - Order Created successfully
