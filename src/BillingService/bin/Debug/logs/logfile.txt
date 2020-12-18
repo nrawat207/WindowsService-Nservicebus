@@ -20,3 +20,6 @@
 2020-11-25 14:27:14,014 [1] WARN  NServiceBus.Licensing - No valid license file was found. The host will be limited to a throughput of 1msg/s.
 2020-11-25 14:27:37,043 [Worker.14] DEBUG BillingService.Handlers.OrderCreatedHandler - Order received for billing.OrderId: 2deec8ba-1a32-4565-b7c3-10477c43d45f
 2020-11-25 14:27:37,048 [Worker.14] DEBUG BillingService.Handlers.OrderCreatedHandler - Bill generated Sucessfully!!
+2020-12-18 08:47:54,709 [1] WARN  NServiceBus.Licensing - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2020-12-18 08:48:23,664 [Worker.13] DEBUG BillingService.Handlers.OrderCreatedHandler - Order received for billing.OrderId: b0c50a73-2f2a-4d8c-babb-9ac58698beca
+2020-12-18 08:48:23,670 [Worker.13] DEBUG BillingService.Handlers.OrderCreatedHandler - Bill generated Sucessfully!!

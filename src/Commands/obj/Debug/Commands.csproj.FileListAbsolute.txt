@@ -3,3 +3,8 @@ C:\Users\innara\Source\Repos\nrawat207\WindowsService-Topshelf-Nservicebus\src\C
 C:\Users\innara\Source\Repos\nrawat207\WindowsService-Topshelf-Nservicebus\src\Commands\obj\Debug\Commands.csproj.CoreCompileInputs.cache
 C:\Users\innara\Source\Repos\nrawat207\WindowsService-Topshelf-Nservicebus\src\Commands\obj\Debug\Commands.dll
 C:\Users\innara\Source\Repos\nrawat207\WindowsService-Topshelf-Nservicebus\src\Commands\obj\Debug\Commands.pdb
+C:\Narendra\Projects\2020\Window Service & nServiceBus\WindowsService-NServicebus\src\Commands\bin\Debug\Commands.dll
+C:\Narendra\Projects\2020\Window Service & nServiceBus\WindowsService-NServicebus\src\Commands\bin\Debug\Commands.pdb
+C:\Narendra\Projects\2020\Window Service & nServiceBus\WindowsService-NServicebus\src\Commands\obj\Debug\Commands.csproj.CoreCompileInputs.cache
+C:\Narendra\Projects\2020\Window Service & nServiceBus\WindowsService-NServicebus\src\Commands\obj\Debug\Commands.dll
+C:\Narendra\Projects\2020\Window Service & nServiceBus\WindowsService-NServicebus\src\Commands\obj\Debug\Commands.pdb

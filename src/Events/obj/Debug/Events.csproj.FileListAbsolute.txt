@@ -3,3 +3,8 @@ C:\Users\innara\Source\Repos\nrawat207\WindowsService-Topshelf-Nservicebus\src\E
 C:\Users\innara\Source\Repos\nrawat207\WindowsService-Topshelf-Nservicebus\src\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
 C:\Users\innara\Source\Repos\nrawat207\WindowsService-Topshelf-Nservicebus\src\Events\obj\Debug\Events.dll
 C:\Users\innara\Source\Repos\nrawat207\WindowsService-Topshelf-Nservicebus\src\Events\obj\Debug\Events.pdb
+C:\Narendra\Projects\2020\Window Service & nServiceBus\WindowsService-NServicebus\src\Events\bin\Debug\Events.dll
+C:\Narendra\Projects\2020\Window Service & nServiceBus\WindowsService-NServicebus\src\Events\bin\Debug\Events.pdb
+C:\Narendra\Projects\2020\Window Service & nServiceBus\WindowsService-NServicebus\src\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Narendra\Projects\2020\Window Service & nServiceBus\WindowsService-NServicebus\src\Events\obj\Debug\Events.dll
+C:\Narendra\Projects\2020\Window Service & nServiceBus\WindowsService-NServicebus\src\Events\obj\Debug\Events.pdb
