@@ -9,4 +9,4 @@ StructureMap 2.6.4
 
 Output:
 
-https://github.com/nrawat207/WindowsService-Nservicebus/blob/main/media/Output-WindowsServices.jpg
+![alt text](https://github.com/nrawat207/WindowsService-Nservicebus/blob/main/media/Output-WindowsServices.jpg)
