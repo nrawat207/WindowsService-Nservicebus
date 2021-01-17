@@ -1,6 +1,6 @@
 # WindowsService-Nservicebus
 
-This is sample example of creating Windows service with Nservice bus.
+This is example of creating Windows service with Nservice bus.
 
 # Dependencies:
 Nservicebus 3.2.0
